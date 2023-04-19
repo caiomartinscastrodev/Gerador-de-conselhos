@@ -1,0 +1,37 @@
+.container {
+    width: 40%;
+    padding: 20px;
+    margin: 150px auto;
+    background-color: rgba(0, 0, 0, 0.685);
+    color: white;
+    border-radius: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+input {
+    padding: 20px;
+    display: block;
+    width: 80%;
+    border: none;
+    outline: none;
+    background-color: rgba(0, 0, 0, 0.822);
+    color: white;
+    width: 80%;
+    margin: 10px auto;
+    border-radius: 30px;
+}
+
+button {
+    border: none;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.815);
+    padding: 18px;
+    display: block;
+    width: 80%;
+    border-radius: 30px;
+    margin: 10px auto;
+    cursor: pointer;
+}
